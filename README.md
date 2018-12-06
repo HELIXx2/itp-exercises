@@ -18,7 +18,7 @@ row increases each element by 2 and 1. When element value passes 9, again
 it starts from zero.
       example: N = 45371
 
-0 1 9 3 7
+0 1 9 3 7\n
 9 0 8 2 6
 7 8 6 0 4
 6 7 5 9 3
