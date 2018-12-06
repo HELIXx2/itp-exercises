@@ -30,7 +30,7 @@ ____________________________________________________________________________
 in a way that it removes the words that have less than N characters. Number
 N is entered by an user. It is assumed that only letters and a space sign 
 are entered.
-      example: N=5  <br>
+      example: N=5  <br> <br>
 in: Sentence with some words  <br>
 out: Sentence words  <br>
 
