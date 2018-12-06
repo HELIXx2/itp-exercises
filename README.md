@@ -25,3 +25,11 @@ it starts from zero.
 4 5 3 7 1
 
 ____________________________________________________________________________
+
+3. Write a program that changes given sentence stored as a character array
+in a way that it removes the words that have less than N characters. Number
+N is entered by an user. It is assumed that only letters and a space sign 
+are entered.
+      example: N=5
+in: Sentence with some words
+out: Sentence words
