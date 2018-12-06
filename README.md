@@ -15,8 +15,7 @@ ___________________________________________________________________________
 In the last row places the digits of the number, and each subsequent upper
 row increases each element by 2 and 1. When element value passes 9, again
 it starts from zero.
-
-example: N = 45371
+      example: N = 45371
 
 0 1 9 3 7
 9 0 8 2 6
